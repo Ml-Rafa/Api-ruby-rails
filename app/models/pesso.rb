@@ -1,0 +1,2 @@
+class Pesso < ApplicationRecord
+end
